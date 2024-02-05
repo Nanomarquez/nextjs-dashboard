@@ -4,4 +4,14 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-<a href="https://nextjs-dashboard-delta-tawny-62.vercel.app/" target="_BLANK">DEMO</a>
+Need auth to login try.. 
+
+    email: 'user@nextmail.com',
+    password: '123456',
+
+    email: 'nano@marquez.com',
+    password: '123456',
+
+<a href="https://nextjs-dashboard-delta-tawny-62.vercel.app/" target="_blank">DEMO</a>
+
+
